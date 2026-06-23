@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Devang 👋</h1>
+<h1 align="center">I'm Devang. I turn ideas into Flutter apps. 🚀</h1>
 
 <p align="center">
   <strong>Senior Flutter Developer &nbsp;·&nbsp; Flutter Team Lead &nbsp;·&nbsp; FinTech Mobile Specialist</strong><br/>
